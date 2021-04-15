@@ -2,3 +2,143 @@
 Html css début
 Cv en ligne personalisé
 Le test de W3 validator
+<html lang="fr">
+    <head>
+        <title>CV de Hery Ny Aina</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div id="block1" class="col-sm-8 col-md-10">
+                    <p class="nom"><strong>Hery Rasoamiaramanana</strong></p>
+                    <p>Apprenti développeur Web,19 ans</p>
+                    <p>30 clos des chassettes 73190 Challes-les-eaux<br/>0763522816<br/>2001.hery@gmail.com</p>
+                    
+                
+                </div>
+                <div id="block2" class="col-sm-4 col-md-2">
+                <img src="CV-hery.jpg" alt="CV hery" class="img-responsive1">
+                </div>
+            </div>
+            <div class="row">
+                <div id="block4" class="col-md-4 col-sm-6">
+                    <img src="Distinctions%20-%205.png" alt="atouts" class="img-responsive"><span class="titre2">Atouts</span>
+                    <ul>
+                        <li>Travail d'équipe</li>
+                        <li>Facilité d'apprentissage</li>
+                        <li>Organisation</li>
+                        <li>Facilité d'adaptation</li>
+                    </ul>
+                </div>
+                <div id="block5" class="col-md-4 col-sm-6">
+                    <img src="Langues%20-%204.png" alt="langues" class="img-responsive"><span class="titre2">Langues</span>
+                    <ul>
+                        <li>Anglais<span class="niveau">Intermédiaire</span></li>
+                        <li>Malgache<span class="niveau">Langue maternelle</span></li>
+                    </ul>
+                </div>
+                <div id="block6" class="col-md-4">
+                    <img src="Informatique%20-%201.png" alt="Informatique" class="img-responsive"><span class="titre2">Informatique</span>
+                    <ul>
+                        <li>Html,CSS,Javascript</li>
+                        <li>Photoshop,illustrator</li>
+                        <li>In design</li>
+                        <li>Bureautique</li>
+                    </ul>
+                </div>
+            </div>
+            </div>
+            <div class="container">
+                    <h2>Expérience</h2>
+                    <div class="row">
+                    <div id="block7" class="col-md-2">
+                        <p>2020</p>
+                    </div>
+                    <div id="block8" class="col-md-10">
+                        <p><span class="titre">Stage en informatique(apprentissage)</span><br/>
+                        Stage de mise en situation professionnelle chez un infographiste indépendant sur la conception des sites web à l'aide des CMS
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <h2>Formations</h2>
+                <div class="row">
+                    <div id="block9" class="col-md-2">
+                        <p>2021</p>
+                    </div>
+                    <div id="block10" class="col-md-10">
+                        <p><span class="titre">Formation CNF( compétences numériques fondamentales) à Simplon( Chambery-le-haut)</span></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div id="block11" class="col-md-2">
+                         <p>2018</p>
+                    </div>
+                    <div id="block12" class="col-md-10">
+                         <p><span class="titre">Niveau Bac+2 en droit</span><br/>
+                            Université de droit à Madagascar<br/>
+                            J'ai commencé les études universitaires en vue d'acquérir les bases essentielles de la culture juridique      
+                         </p>
+                    </div>
+                 </div>
+                 <div class="row">
+                      <div id="block13" class="col-md-2">
+                         <p>2017</p>
+                      </div>
+                      <div id="block14" class="col-md-10">
+                         <p><span class="titre">Baccalauréat</span><br/>
+                            Série scientifique<br/>
+                            Baccalauréat général
+                         </p>
+                      </div>
+                 </div>
+                 <div class="row">
+                      <div id="block15" class="col-md-2">
+                          <p>2014</p>
+                      </div>
+                      <div id="block16" class="col-md-10">
+                          <p><span class="titre">Brevet d'études du premier cycle</span><br/>
+                            Lycée des séraphins, Madagascar<br/>
+                            Diplôme obtenu après la classe de troisième
+                          </p>
+                      </div>
+                 </div>
+            </div>
+            <div class="container">
+                <h2>Loisirs</h2>
+                <div class="row">
+                        <div id="block17" class="col-md-2">
+                            <p>2009</p>
+                        </div>
+                        <div id="block18" class="col-md-10">
+                            <p><span class="titre">10 ans</span><br/>
+                                Je pratique le karaté depuis l'âge de 9 ans
+                            </p>
+                        </div>
+                </div>
+                <div class="row">
+                        <div id="block19" class="col-md-2">
+                            <p>2016</p>
+                        </div>
+                        <div id="block20" class="col-md-10">
+                             <p><span class="titre">5 ans</span><br/>
+                             Le basketball me permet de m'évader et de renouveler mon énergie
+                             </p>
+                        </div>
+                </div>     
+            </div>
+            <div class="container">
+                  <img src="Internet%20-%202.png" alt="github" class="img-responsive"><span class="titre2">Github</span>
+                 <div id="block19" class="col-12">
+                      <a href="https://github.com/Heryny/Comp-res-"><span class="titre5">Lien vers mon github</span></a>
+                 </div>
+            </div>
+    </body>
+</html>
