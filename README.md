@@ -2,6 +2,9 @@
 Html css début
 Cv en ligne personalisé
 Le test de W3 validator
+
+
+
 <html lang="fr">
     <head>
         <title>CV de Hery Ny Aina</title>
