@@ -1,0 +1,77 @@
+.container{
+    width: 920px;
+    margin: auto;
+    font-family: "source code pro",calibri,tahoma,sans-serif;
+    font-size: 16px;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+  
+}
+
+.nom{
+    font-size: 40px;
+}
+h2{
+    font-size: 28px;
+    color: #833AB4;
+    font-weight: bolder;
+   
+}
+
+.titre{
+    font-weight: bold;
+}
+.titre2{
+    font-size: 28px;
+    color: #833AB4;
+    font-weight: bolder;
+   
+}
+
+.img-responsive{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+}
+.niveau{
+    margin-left: 20px;
+    font-weight: bold;
+}
+.titre5{
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
